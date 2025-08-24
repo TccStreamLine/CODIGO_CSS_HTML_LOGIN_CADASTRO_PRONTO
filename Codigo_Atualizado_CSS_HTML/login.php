@@ -56,9 +56,10 @@
             </div>
         </div>
 
-        <!-- Painel direito com stripes animadas -->
+        
         <div class="right-panel">
             <img src=imagemtela.png>
+            
         </div>
     </div>
 </body>
